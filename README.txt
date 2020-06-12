@@ -1,3 +1,5 @@
+### This project was a part of the Coursera specialization- Python for Everybody.
+
 Using the Google Places API with a Database and
 Visualizing Data on Google Map
 
